@@ -1,0 +1,16 @@
+Notes on resumes
+    Length
+        - Should be at 1 page max if you have < 10 years of experience.
+        - Reviewers spend about 10 seconds on your resume, shorter the better.
+        - Some reviewers refuse to read longer resumes.
+    History
+        - Try to make bullet points specific.
+        - Generally, follow: what you did, how you did it, what the results were, and make it
+          measurable somehow if you can.
+    Projects
+        - Include 2 - 4
+        - Explain the project and what technologies/languages were used.
+        - Reviewers prefer individual, out-of-school projects since it shows initiative.
+    Languages/Software
+        - List langauges you use but provide experience levels in parenthesis 
+            - EX: Java (expert), Python (intermediate), C (beginner)
